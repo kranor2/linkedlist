@@ -1,1 +1,5 @@
 # linkedlist
+
+## Description
+
+This is my ninth project within the Full Stack JavaScript course from The Odin Project, continuing my coursework within the JavaScript chapter of the course. This project responds to the prompt wherein students are challenged to create a class or factory for a Linked List data structure, with Nodes (built in their own class or factory) and functions for handling, modifying, adding, and removing Nodes. This project builds on developed knowledge in data structures, algorithms, time complexity, and space complexity, and implements this knowledge as an opportunity to practice considering the most efficient method to achieve functionality and effectively manipulate data/structures within a given context. In this case, the project has helped me to produce modules that can later be implemented into other projects.
